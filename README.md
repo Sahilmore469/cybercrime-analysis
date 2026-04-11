@@ -184,8 +184,8 @@ jupyter notebook cybercrimefinal.ipynb
 
 **Sahil More**
 
-[![LinkedIn](www.linkedin.com/in/sahilmore45)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahilmore45)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Sahil456)
 
 </div>
 
